@@ -1,4 +1,4 @@
-# FORM APP - ANGULAR
+# TASK APP - REACT
 
 #### **1.  Docker Image**
 Se debe contruir la imagen: docker build -t ernestoagc/task-app:0.1 .
