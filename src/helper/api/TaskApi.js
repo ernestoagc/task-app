@@ -1,8 +1,7 @@
 import { SignalCellularNoSimOutlined } from '@material-ui/icons';
 import axios from 'axios'
 import {axiosInstance} from '../../helper/axiosInstance'
-//const urlApi="http://localhost:8400/api/";
-const urlApi="http://task-app/api/";
+const urlApi="http://localhost:8400/api/";
 
 const pathFindAll ="findall";
 const pathCreate ="";
